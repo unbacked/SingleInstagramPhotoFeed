@@ -1,0 +1,57 @@
+body{
+	margin: 0;
+	background-color: #162F47;
+}
+
+#titulo{
+	background-color: white;
+	text-align: center;
+	padding: .5%;
+	background-color: #556D84;
+
+}
+
+#titulo h1{
+	margin: 0;
+}
+
+.contenedor{
+	padding: 20px;
+	margin: auto;
+	width: 45%;
+}
+
+.contenedor div{
+	border-radius: 10px;
+	margin-bottom: 20px;
+	background-color: #A0C6EB;
+}
+
+.post{
+	background-color: white;
+}
+
+.post img{
+	width: 100%;
+	display: block;
+}
+
+#header{
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+#header h2{
+	float: left;
+	margin: 0;
+	padding-left: 10px;
+}
+#header span{
+	float: right;
+	padding-right: 10px;
+}
+
+p{
+	margin: 0;
+	padding-left: 5px;
+	padding-right: 5px;
+}
